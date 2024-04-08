@@ -1,0 +1,17 @@
+A program written with C. I created my own library. It contains this functions:
+- a function that returns a vector
+- a function that creates a random vector
+- a function that returns a matrix
+- a function that creates a random matrix
+- a function that return the space we took from the memory to the system
+- a function that calculates mean
+- a function that calculates correlation
+- a function that calculates covariance
+- a function that calculates the multiplication of a matrix
+- a function that calculates the transpose of a matrix
+- a function that calculates the row means
+- a function that calculates the column means
+- a function that calculates the covariance of a matrix
+- a function that calculates the determinant of a matrix
+- a function that prints the vector
+- a function that prints the matrix
